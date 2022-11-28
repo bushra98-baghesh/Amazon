@@ -31,6 +31,7 @@ function Hero() {
           alt=""
           width="600"
         />
+
         <motion.div
           initial={{ right: "4%" }}
           whileInView={{ right: "2%" }}
